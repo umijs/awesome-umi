@@ -28,7 +28,7 @@
 * [umi-plugin-ecma5-validator](https://github.com/umijs/umi-plugin-ecma5-validator) - Ecmascript 5 syntax validator after uglifyjs.
 * [umi-plugin-mobx-state-tree](https://github.com/umijs/umi-plugin-mobx-state-tree) - Use mobx-state-tree in umijs@2.
 
-Checkout [npm search](https://www.npmjs.com/search?q=umi-plugin-) for more plugins.
+Checkout [npm search result](https://www.npmjs.com/search?q=umi-plugin-) for more plugins.
 
 ## Articles
 
