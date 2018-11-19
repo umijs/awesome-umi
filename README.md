@@ -23,7 +23,7 @@
 ## Plugins
 
 * [umi-plugin-react](https://github.com/umijs/umi/tree/master/packages/umi-plugin-react) - A collection of dozens of plugins for react, such as dva, antd, on-demand loading, and more.
-* [https://github.com/umijs/umi-plugin-gh-pages](umi-plugin-gh-pages) - Publish dist folder to gh pages.
+* [umi-plugin-gh-pages](https://github.com/umijs/umi-plugin-gh-pages) - Publish dist folder to gh pages.
 * [umi-plugin-pnp](https://github.com/umijs/umi-plugin-pnp) - Support Plug'n'Play of yarn.
 * [umi-plugin-ecma5-validator](https://github.com/umijs/umi-plugin-ecma5-validator) - Ecmascript 5 syntax validator after uglifyjs.
 * [umi-plugin-mobx-state-tree](https://github.com/umijs/umi-plugin-mobx-state-tree) - Use mobx-state-tree in umijs@2.
