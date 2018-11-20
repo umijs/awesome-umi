@@ -21,6 +21,7 @@
 * [umi-example-electron](https://github.com/umijs/umi-example-electron) -  Electron example with umi and dva.
 * [umi-example-lighthouse](https://github.com/umijs/umi-example-lighthouse) - Full lighthouse score example.
 * [umi-example-monorepo](https://github.com/umijs/umi-example-monorepo) - Organize your code in a monorepo way.
+* [https://github.com/eggjs/egg-ant-design-pro](egg-ant-design-pro) - showcase for Egg loves Ant Design.
 
 ## Plugins
 
