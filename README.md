@@ -12,6 +12,7 @@
 
 ### Open Source
 
+* [Ant Design](https://github.com/ant-design/ant-design) - A UI Design Language and React UI library.
 * [Ant Design Pro](https://github.com/ant-design/ant-design-pro) - An out-of-box UI solution for enterprise applications as a React boilerplate.
 * [Antd Admin](https://github.com/zuiidea/antd-admin) - A excellent front-end solution for enterprise applications built upon Ant Design and UmiJS.
 
@@ -22,6 +23,8 @@
 * [umi-example-lighthouse](https://github.com/umijs/umi-example-lighthouse) - Full lighthouse score example.
 * [umi-example-monorepo](https://github.com/umijs/umi-example-monorepo) - Organize your code in a monorepo way.
 * [https://github.com/eggjs/egg-ant-design-pro](egg-ant-design-pro) - showcase for Egg loves Ant Design.
+* [umi-example-ssr](https://github.com/umijs/umi-example-ssr) - SSR example for umi.
+* [umi-example-ssr-with-egg](https://github.com/umijs/umi-example-ssr-with-egg) - Example for building frontend app with umi Server-Side Render and PreRender.
 
 ## Plugins
 
