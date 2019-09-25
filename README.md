@@ -22,6 +22,8 @@
 * [umi-example-lighthouse](https://github.com/umijs/umi-example-lighthouse) - Full lighthouse score example.
 * [umi-example-monorepo](https://github.com/umijs/umi-example-monorepo) - Organize your code in a monorepo way.
 * [https://github.com/eggjs/egg-ant-design-pro](egg-ant-design-pro) - showcase for Egg loves Ant Design.
+* [umi-example-ssr](https://github.com/umijs/umi-example-ssr) - SSR example for umi.
+* [umi-example-ssr-with-egg](https://github.com/umijs/umi-example-ssr-with-egg) - Example for building frontend app with umi Server-Side Render and PreRender.
 
 ## Plugins
 
