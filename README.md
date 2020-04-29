@@ -32,6 +32,7 @@
 * [umi-plugin-pnp](https://github.com/umijs/umi-plugin-pnp) - Support Plug'n'Play of yarn.
 * [umi-plugin-ecma5-validator](https://github.com/umijs/umi-plugin-ecma5-validator) - Ecmascript 5 syntax validator after uglifyjs.
 * [umi-plugin-mobx-state-tree](https://github.com/umijs/umi-plugin-mobx-state-tree) - Use mobx-state-tree in umijs@2.
+* [umi-preset-react-native](https://github.com/xuyuanxiang/umi-react-native) - A collection of preset plugins for react-native. Use the engine imposed by umi to accelerate development and enhance the RN programming experience.
 
 Checkout [npm search result](https://www.npmjs.com/search?q=umi-plugin-) for more plugins.
 
